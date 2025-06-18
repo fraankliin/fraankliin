@@ -2,6 +2,7 @@
 <h3 align="center">I am a developer, Spring enthusiast, Java ninja, Microservice builder.</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDN0a2E1M21hOGtzbnBqZmNsa3NiaHU2MnlwaDZ6bjJtams5MGN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CJjyy63fqY7rKIDDB/giphy.gif"/>
+
 - 💬 Ask me about: **Java, Spring, Python, FastAPI, Backend.**
 - ⚡ Fun fact: **I love solving the Rubik's cube and playing sports.**
 
